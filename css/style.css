@@ -123,7 +123,7 @@ hl{
 	100%{color: white}
 }
 
-
+.mobile-icon{display: none;}
 
 /*//////////// Responsive Queries /////////*/
 
@@ -131,9 +131,6 @@ hl{
 	.main-content-header{
 		width: 100%;
 		padding: 0 2%;
-
-	.mobile-icon{display: none;}
-
 	}
 }
 
